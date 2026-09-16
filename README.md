@@ -1,14 +1,14 @@
 # Hi there, I'm Renjie Li 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Community+Steward+of+p5.js;Maintainer+of+rust2go;Contributor+to+Eclipse+Symphony)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=Started+as+a+Magician+Assistant+at+Shanghai+Science+and+Technology+Museum;My+very+first+job+-+the+job+I+held+when+I+created+this+GitHub+account;Now+I+work+on+open+source+-+community+maintenance+and+knowledge+sharing;Community+Steward+of+p5.js+-+focusing+on+i18n+and+DevOps;Contributor+to+Eclipse+Symphony+-+orchestration+for+edge+and+cloud;Maintainer+and+core+contributor+of+rust2go+-+Rust-Go+FFI+framework)](https://git.io/typing-svg)
 
-I started my career as a **Magician Assistant at the Shanghai Science and Technology Museum** — my very first job, and the job I held when I created this GitHub account.
+[![p5.js](https://img.shields.io/badge/p5.js-Community%20Steward-ED225D?logo=p5.js&logoColor=white)](https://github.com/processing/p5.js)
+[![Symphony](https://img.shields.io/badge/Symphony-Contributor-2C2255?logo=eclipse&logoColor=white)](https://github.com/eclipse-symphony/symphony)
+[![rust2go](https://img.shields.io/badge/rust2go-Maintainer-orange?logo=rust&logoColor=white)](https://github.com/ihciah/rust2go)
 
-These days I work on open source — though more than open source development itself, what I really care about is **community maintenance and knowledge sharing**:
+## Writing
 
-- **Community Steward of [p5.js](https://github.com/processing/p5.js)**, focusing on **i18n** and **DevOps** — p5.js is a JavaScript library for creative coding, built to make programming accessible and inclusive for artists, designers, educators, and beginners.
-- Contributor to **[Symphony](https://github.com/eclipse-symphony/symphony)** (donated by Microsoft to the Eclipse Foundation) — an open-source orchestration platform that declaratively deploys and manages workloads across distributed edge and cloud targets.
-- **Maintainer and one of the core contributors of [rust2go](https://github.com/ihciah/rust2go)** — a high-performance Rust–Go FFI framework that lets the two languages call each other with native async support and no serialization overhead.
+- [Refactoring rust2go: One Month, Twenty Small PRs](https://lirenjie95.github.io/posts/rust2go-refactor.html) — a retrospective on a month-long, twenty-PR refactor of rust2go.
 
 ## Stats
 
@@ -26,7 +26,3 @@ These days I work on open source — though more than open source development it
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
-
-## Writing
-
-- [Refactoring rust2go: One Month, Twenty Small PRs](https://lirenjie95.github.io/posts/rust2go-refactor.html) — a retrospective on a month-long, twenty-PR refactor of rust2go.
