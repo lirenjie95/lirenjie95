@@ -1,9 +1,9 @@
 # Hi there, I'm Renjie Li 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=Started+as+a+Magician+Assistant+at+Shanghai+Science+and+Technology+Museum;My+very+first+job+-+the+job+I+held+when+I+created+this+GitHub+account;Now+I+work+on+open+source+-+community+maintenance+and+knowledge+sharing;Community+Steward+of+p5.js+-+focusing+on+i18n+and+DevOps;Contributor+to+Eclipse+Symphony+-+orchestration+for+edge+and+cloud;Maintainer+and+core+contributor+of+rust2go+-+Rust-Go+FFI+framework)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=900&lines=Started+as+a+Magician+Assistant+at+Shanghai+Science+and+Technology+Museum;My+very+first+job+-+the+job+I+held+when+I+created+this+GitHub+account;Now+I+work+on+open+source+-+community+maintenance+and+knowledge+sharing;Community+Steward+of+p5.js+-+focusing+on+i18n+and+DevOps;Contributor+to+Eclipse+Symphony+-+orchestration+for+edge+and+cloud;Maintainer+and+core+contributor+of+rust2go+-+Rust-Go+FFI+framework)](https://git.io/typing-svg)
 
 [![p5.js](https://img.shields.io/badge/p5.js-Community%20Steward-ED225D?logo=p5.js&logoColor=white)](https://github.com/processing/p5.js)
-[![Symphony](https://img.shields.io/badge/Symphony-Contributor-2C2255?logo=eclipse&logoColor=white)](https://github.com/eclipse-symphony/symphony)
+[![Symphony](https://img.shields.io/badge/Symphony-Contributor-2C2255?logo=eclipseide&logoColor=white)](https://github.com/eclipse-symphony/symphony)
 [![rust2go](https://img.shields.io/badge/rust2go-Maintainer-orange?logo=rust&logoColor=white)](https://github.com/ihciah/rust2go)
 
 ## Writing
