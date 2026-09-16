@@ -1,4 +1,4 @@
-name: Generate profile summary cards
+name: Generate profile stats
 
 on:
   schedule:
@@ -23,10 +23,17 @@ jobs:
           THEME: default
           UTC_OFFSET: 8
 
-      - name: Commit generated cards
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git diff --cached --quiet || git commit -m "Update profile summary cards"
+          git add profile-summary-card-output dist
+          git diff --cached --quiet || git commit -m "Update profile stats"
           git push
