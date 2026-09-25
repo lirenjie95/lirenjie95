@@ -9,6 +9,7 @@
 ## Writing
 
 - [Refactoring rust2go: One Month, Twenty Small PRs](https://lirenjie95.github.io/posts/rust2go-refactor.html) — a retrospective on a month-long, twenty-PR refactor of rust2go.
+- [Mi Home Scene Lab](https://lirenjie95.github.io/mihome-scene-lab/) — a browser-based lab for Xiaomi Mi Home automation scene backups (.bak): visualize, simulate, edit, and AI-generate scenes, fully local. ([repo](https://github.com/lirenjie95/mihome-scene-lab))
 
 ## Stats
 
