@@ -11,19 +11,30 @@
 - [Refactoring rust2go: One Month, Twenty Small PRs](https://lirenjie95.github.io/posts/rust2go-refactor.html) — a retrospective on a month-long, twenty-PR refactor of rust2go.
 - [Mi Home Scene Lab](https://lirenjie95.github.io/mihome-scene-lab/) — a browser-based lab for Xiaomi Mi Home automation scene backups (.bak): visualize, simulate, edit, and AI-generate scenes, fully local. ([repo](https://github.com/lirenjie95/mihome-scene-lab))
 
-## Stats
+<details>
+<summary><h2>Stats</h2></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lirenjie95)](https://git.io/streak-stats)
+<table align="center">
+  <tr>
+    <td><img width="370" src="https://streak-stats.demolab.com?user=lirenjie95" alt="GitHub Streak" /></td>
+    <td><img width="480" src="profile-summary-card-output/default/0-profile-details.svg" alt="profile details" /></td>
+  </tr>
+</table>
 
-![](profile-summary-card-output/default/0-profile-details.svg)
+<table align="center">
+  <tr>
+    <td><img width="200" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="repos per language" /></td>
+    <td><img width="200" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="most commit language" /></td>
+    <td><img width="200" src="profile-summary-card-output/default/3-stats.svg" alt="stats" /></td>
+    <td><img width="200" src="profile-summary-card-output/default/4-productive-time.svg" alt="productive time" /></td>
+  </tr>
+</table>
 
-![](profile-summary-card-output/default/1-repos-per-language.svg)
-![](profile-summary-card-output/default/2-most-commit-language.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-![](profile-summary-card-output/default/3-stats.svg)
-![](profile-summary-card-output/default/4-productive-time.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg" />
-</picture>
+</details>
